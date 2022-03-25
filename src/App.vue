@@ -28,7 +28,7 @@ export default{
 }
 .main-container{
   margin: 50px;
-  height: 250px;
+  height: 558px;
 
 }
 h1{
